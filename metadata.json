@@ -1,0 +1,5 @@
+{
+  "name": "Bojro IDE",
+  "description": "A next-generation browser-based IDE and compiler for the Bojro (বজ্র) programming language. Features real-time AST visualization, Bangla syntax highlighting, and AI-powered code assistance.",
+  "requestFramePermissions": []
+}
